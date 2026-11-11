@@ -10,8 +10,7 @@ I developed a comprehensive project in Excel. In this project you will get multi
 - Region dashboard
 - dataset
 - pivot table
-## Aananda_farm Dashboard 
-## Pages
+## Aananda_farm Dashboard pages
 - Aananda farm dashboard:- This page contains main dashboard of farm where you will see total sale according to month and product name with its quantity sold.
   <br><a href="https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(2).png">dashboard</a>
 - Product dashboard:- Product dashboard contains product information farm where you will see Product name and it's sold quantity according to product.
