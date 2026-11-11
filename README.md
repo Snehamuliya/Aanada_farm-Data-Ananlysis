@@ -14,7 +14,7 @@ I developed a comprehensive project in Excel. In this project you will get multi
 - Aananda farm dashboard:- This page contains main dashboard of farm where you will see total sale according to month and product name with its quantity sold.
   <br><a href="https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(2).png">dashboard</a>
 - Product dashboard:- Product dashboard contains product information farm where you will see Product name and it's sold quantity according to product.
-  <br><a href="https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(2).png">dashboard</a>
+  <br><a href="[https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(2).png](https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(7).png)">dashboard</a>
 - Customer dashboard:- Customer dashboard contains dashboard of farm customer where you will see order count and total purchases according to customer.
   <br><a href="https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(2).png">dashboard</a>
 - Region dashboard :- Region dashboard contains dashboard of customer region where you will see order count and total purchases according to region.
