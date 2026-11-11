@@ -18,7 +18,7 @@ I developed a comprehensive project in Excel. In this project you will get multi
 - Customer dashboard:- Customer dashboard contains dashboard of farm customer where you will see order count and total purchases according to customer.
   <br><a href="[https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(2).png](https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(4).png)">dashboard</a>
 - Region dashboard :- Region dashboard contains dashboard of customer region where you will see order count and total purchases according to region.
-  <br><a href="https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(2).png">dashboard</a>
+  <br><a href="[https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(2).pn](https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(6).png)">dashboard</a>
 - Dataset:- This page contains main source data from which we created dashboards.
   <br><a href="[https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(2).png](https://github.com/Snehamuliya/Aanada_farm-Data-Ananlysis/blob/main/Screenshot%20(5).png)">dashboard</a>
 - Pivot table:- This page contains pivot-tables of farm according to its requirement
